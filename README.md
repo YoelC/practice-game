@@ -13,3 +13,6 @@ It's a different way to play the game. It features a shop, and the game itself. 
 
 ## Creation of the game
 Developed in Python with the PyGame module (requirement)
+
+## Controls
+Shoot with space, move with WASD, buy with mouse clicks, think with brain.
